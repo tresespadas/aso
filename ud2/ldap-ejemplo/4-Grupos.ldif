@@ -1,0 +1,22 @@
+# Grupos
+# --------
+# Profesores
+# --------
+dn: cn=profesores,ou=grupos,dc=aula,dc=local
+objectClass: posixGroup
+objectClass: top
+cn: profesores
+gidNumber: 1501
+memberUid: pespanolg
+memberUid: mgarciar
+
+# Alumnos
+# --------
+dn: cn=alumnos,ou=grupos,dc=aula,dc=local
+objectClass: posixGroup
+objectClass: top
+cn: alumnos
+gidNumber: 1502
+memberUid: pporrasg
+memberUid: llopezt
+memberUid: atorresf

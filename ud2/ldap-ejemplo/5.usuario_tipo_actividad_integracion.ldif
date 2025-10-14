@@ -1,0 +1,18 @@
+# Usuario para la actividad de integracion de ubuntu desktop con el servidor openldap
+# -----------
+dn: cn=mgarciar,ou=usuarios,dc=aula,dc=local
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+cn: mgarciar
+uidNumber: 1503
+uid: pporrasg
+gidNumber: 100
+homeDirectory: /home/mgarciar
+loginShell: /bin/bash
+userPassword: 123456
+sn: Garcia Rey
+givenName: Maria
+mail: mgarciar@aula.local

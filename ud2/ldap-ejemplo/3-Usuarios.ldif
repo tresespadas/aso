@@ -1,0 +1,37 @@
+# Listado de usuarios
+# -------------------
+# Usuario1
+dn: cn=pespanolg,ou=usuarios,dc=aula,dc=local
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+cn: pespanolg
+uidNumber: 1501
+uid: pespanolg
+gidNumber: 1501
+homeDirectory: /home/pespanolg
+loginShell: /bin/bash
+userPassword: 123456
+sn: Espanol Garcia
+givenName: Pepe
+mail: pespanolg@aula.local
+
+# Usuario2
+dn: cn=pporrasg,ou=usuarios,dc=aula,dc=local
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+cn: pporrasg
+uidNumber: 1502
+uid: pporrasg
+gidNumber: 1502
+homeDirectory: /home/pporrasg
+loginShell: /bin/bash
+userPassword: 123456
+sn: Porras Garcia
+givenName: Paco
+mail: pporrasg@aula.local

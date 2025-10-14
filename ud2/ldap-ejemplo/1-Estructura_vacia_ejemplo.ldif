@@ -1,0 +1,33 @@
+#----Unidades Organizativas---
+
+dn: 
+objectClass: organizationalUnit
+objectClass: top
+ou: 
+#---Usuarios---------
+
+dn: 
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+cn:
+uidNumber: 
+uid: 
+gidNumber:
+homeDirectory:
+loginShell: /bin/bash
+userPassword: 
+sn: 
+givenName: 
+mail:
+
+#-----Grupos---------
+
+dn: 
+objectClass: posixGroup
+objectClass: top
+cn: 
+gidNumber: 
+memberUid: 
