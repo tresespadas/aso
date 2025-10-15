@@ -1,0 +1,16 @@
+# Descripción: No se ha guardado correctamente el uidNumber y gidNumber de algunos usuarios
+dn: cn=sparkera,ou=usuarios,dc=iesguadalpena,dc=es
+replace: uidNumber
+uidNumber: 1502
+
+dn: cn=sparkera,ou=usuarios,dc=iesguadalpena,dc=es
+replace: gidNumber
+gidNumber: 1502
+
+dn: cn=slopezc,ou=usuarios,dc=iesguadalpena,dc=es
+replace: uidNumber
+uidNumber: 1503
+
+dn: cn=slopezc,ou=usuarios,dc=iesguadalpena,dc=es
+replace: gidNumber
+gidNumber: 1503

@@ -1,0 +1,20 @@
+# Grupos
+# --------
+# Profesores
+# --------
+dn: cn=profesores,ou=grupos,dc=iesguadalpena,dc=es
+objectClass: posixGroup
+objectClass: top
+cn: profesores
+gidNumber: 1501
+memberUid: wwomang
+memberUid: slopezc
+
+# Alumnos
+# --------
+dn: cn=alumnos,ou=grupos,dc=iesguadalpena,dc=es
+objectClass: posixGroup
+objectClass: top
+cn: alumnos
+gidNumber: 1502
+memberUid: sparkera

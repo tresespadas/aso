@@ -1,7 +1,7 @@
-dn: ou=usuarios,dc=aula,dc=local
+dn: ou=usuarios,dc=iesguadalpena,dc=es
 objectClass: organizationalUnit
 ou: usuarios
 
-dn: ou=grupos,dc=aula,dc=local
+dn: ou=grupos,dc=iesguadalpena,dc=es
 objectClass: organizationalUnit
 ou: grupos

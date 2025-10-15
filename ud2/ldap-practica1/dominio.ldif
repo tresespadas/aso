@@ -1,0 +1,14 @@
+dn: dc=iesguadalpena,dc=es
+objectClass: top
+objectClass: dcObject
+objectClass: organization
+o: iesguadalpena.es
+dc: iesguadalpena
+structuralObjectClass: organization
+entryUUID: dc27cb94-3d73-1040-995b-4d0b03489bdb
+creatorsName: cn=admin,dc=iesguadalpena,dc=es
+createTimestamp: 20251014180340Z
+entryCSN: 20251014180340.861074Z#000000#000#000000
+modifiersName: cn=admin,dc=iesguadalpena,dc=es
+modifyTimestamp: 20251014180340Z
+

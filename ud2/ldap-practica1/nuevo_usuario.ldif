@@ -1,0 +1,19 @@
+# Nuevo Usuario
+# -------------------
+# Batman Returns Mursiegalo 
+dn: cn=breturnsm,ou=usuarios,dc=iesguadalpena,dc=es
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+cn: breturnsm
+uidNumber: 1504
+uid: breturnsm
+gidNumber: 1504
+homeDirectory: /home/breturnsm
+loginShell: /bin/bash
+userPassword: {SSHA}E0+QvH/xz3+ZdeedENq4frV2TsWr+EOg
+sn: Returns Mursiegalo
+givenName: Batman
+mail: breturnsm@iesguadalpena.es

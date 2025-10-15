@@ -1,0 +1,4 @@
+# Descripción: Adición del nuevo usuario (Batman) al grupo alumnos
+dn: cn=alumnos,ou=grupos,dc=iesguadalpena,dc=es
+add: memberUid
+memberUid: breturnsm

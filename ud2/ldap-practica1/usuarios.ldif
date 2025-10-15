@@ -1,0 +1,55 @@
+# Listado de usuarios
+# -------------------
+# Wonder Woman Garcia
+dn: cn=wwomang,ou=usuarios,dc=iesguadalpena,dc=es
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+cn: wwomang
+uidNumber: 1501
+uid: wwomang
+gidNumber: 1501
+homeDirectory: /home/wwomang
+loginShell: /bin/bash
+userPassword: {SSHA}E0+QvH/xz3+ZdeedENq4frV2TsWr+EOg
+sn: Woman Garcia
+givenName: Wonder
+mail: wwomang@iesguadalpena.es
+
+# Spiderman Parker Araña
+dn: cn=sparkera,ou=usuarios,dc=iesguadalpena,dc=es
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+cn: sparkera
+uidNumber: 1502
+uid: sparkera
+gidNumber: 1502
+homeDirectory: /home/sparkera
+loginShell: /bin/bash
+userPassword: {SSHA}f5xGhVQpBhXu1soeOJbUBquQ4LeCvK/6
+sn: Parker Araña
+givenName: Spiderman
+mail: sparkera@iesguadalpena.es
+
+# Superman Lopez Capa
+dn: cn=slopezc,ou=usuarios,dc=iesguadalpena,dc=es
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+cn: slopezc
+uidNumber: 1503
+uid: slopezc
+gidNumber: 1503
+homeDirectory: /home/slopezc
+loginShell: /bin/bash
+userPassword: {SSHA}ppcAIOQYZ2rb8kLVJ6ssFZHY2FRP+vlp
+sn: Lopez Capa
+givenName: Superman
+mail: slopezc@iesguadalpena.es

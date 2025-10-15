@@ -1,0 +1,4 @@
+# Descripción: No se ha guardado correctamente el sn (surname, apellidos) de Spiderman Parker Araña
+dn: cn=sparkera,ou=usuarios,dc=iesguadalpena,dc=es
+replace: sn
+sn: Parker Arana
