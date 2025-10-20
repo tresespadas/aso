@@ -1,0 +1,5 @@
+# Descripción: Adición del nuevo usuario (Batman) al grupo alumnos
+dn: cn=wwomang,ou=usuarios,dc=iesguadalpena,dc=es
+changetype: modify
+replace: mail
+mail: wwoman.garcia@g.educaand.es
