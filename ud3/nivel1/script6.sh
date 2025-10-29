@@ -12,4 +12,3 @@ elif [[ $1 -gt $2 ]]; then
 else
   echo "Ambos números son iguales"
 fi
-
